@@ -3,8 +3,7 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/iTsHuKi7/jmthon)
-
+[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/itshuki7/jmthon)
 ## شكـرا لكـم 
 
 
